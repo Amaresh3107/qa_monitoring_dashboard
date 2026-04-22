@@ -1,0 +1,37 @@
+=== Report Metadata ===
+Report Generated,QA Threshold,CSAT Threshold
+2026-04-18 01:51:22,70.0,3.0
+
+=== Overall KPIs ===
+Metric,Value
+Total Tickets,5000.0
+Avg Qa Score,77.95
+Avg Csat,3.59
+Avg Resolution Min,41.51
+Escalation Pct,20.94
+Qa Csat Corr,0.593
+
+=== Top 5 Performing Agents ===
+Agent Name,Avg_QA_Score,Avg_CSAT,Avg_Resolution,Escalation_Pct,Total_Tickets
+Grace Brown,94.67,4.14,26.58,10.48,229
+Samuel King,93.04,4.1,28.57,11.03,263
+Emma Davis,89.94,4.04,29.65,11.74,281
+Frank Wilson,88.0,3.96,30.31,14.16,233
+Olivia Lewis,87.69,3.96,35.36,16.99,259
+
+=== Low-Performing Agents ===
+Agent Name,Avg_QA_Score,Avg_CSAT,Avg_Resolution,Escalation_Pct,Total_Tickets
+Henry Taylor,67.37,3.23,52.43,27.92,265
+Bob Martinez,65.48,3.17,51.86,26.88,253
+James Anderson,65.34,3.1,55.09,27.13,258
+Mia Harris,65.21,3.14,52.07,29.3,273
+Tina Scott,64.71,3.07,53.75,30.74,231
+
+=== Issue Type Breakdown ===
+Issue Type,Volume,Avg_QA_Score,Avg_CSAT,Avg_Resolution,Escalation_Pct
+Refund,876,77.67,3.48,55.38,24.32
+Technical,868,77.88,3.37,74.12,21.89
+Payment,836,77.93,3.55,45.53,19.86
+Delivery,831,78.31,3.69,27.98,21.66
+Account,801,77.78,3.71,22.61,17.48
+Product,788,78.15,3.74,19.35,20.05
